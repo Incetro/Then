@@ -1,3 +1,5 @@
+![](then.png)
+
 # Then
 
 ✨ Syntactic sugar for Swift
